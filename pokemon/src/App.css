@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.NavBar
+{
+  background: cyan;
+  color: white;
+}
+
+.Section
+{
+  display: grid;
+  grid-template-columns: repeat(7,1fr);
+}
+
